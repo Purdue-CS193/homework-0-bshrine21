@@ -3,7 +3,7 @@
 - We get plenty of time to do our homework unlike Calc 2
 - The instructors are epic
 - Coding is fun
-
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
